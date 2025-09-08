@@ -73,6 +73,7 @@ $$
     \end{cases}.
 \end{align}
 $$
+
 Below are the results.
 | Algorithm  | Avg(↓) | Var(↓) |
 |------------|--------|--------|
